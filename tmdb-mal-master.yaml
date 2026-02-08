@@ -7882,4 +7882,8 @@ animeMovies:
     - mainTitle: Medalist Movie
       tmdbid: 0
       malid: 63326
+    
+    - mainTitle: Wind Breaker
+      tmdbid: 223500
+      malid: 54900
 
